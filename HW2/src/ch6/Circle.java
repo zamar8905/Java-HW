@@ -1,3 +1,5 @@
+///************ Circle 클래스 ************///
+
 package ch6;
 
 public class Circle {	// Circle 클래스 구현
